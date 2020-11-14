@@ -37,6 +37,7 @@
 ### 소프트웨어 설치
 
 표준 프레임워크 개발을 위해서는 아래의 항목들이 설치되어 있어야 한다.
+* [Chorome](https://github.com/ytsyts77/test-project.git)
 * [AdoptOpenJDK 1.8](https://github.com/ytsyts77/test-project.git)
 * [AdoptOpenJDK 11](https://github.com/ytsyts77/test-project.git)
 * [Visual Studio Code](https://github.com/ytsyts77/test-project.git)
