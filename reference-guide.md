@@ -47,7 +47,7 @@ Quick Start 는 다음과 같은 순서로 진행한다.
 * [Visual Studio Code](https://github.com/ytsyts77/test-project.git)
 * [Git](https://github.com/ytsyts77/test-project.git)
 * [Maven](https://github.com/ytsyts77/test-project.git)
-* [SourceTree](/assets/SourceTreeSetup-3.3.9.exe)
+* [![]()SourceTree](/assets/SourceTreeSetup-3.3.9.exe)
 
 상단의 링크들을 클릭하여 설치를 진행한다.
 설치시의 경로는 디폴트로 설정된 값 그대로 설치를 진행하는 것을 권장한다.
@@ -56,7 +56,13 @@ Quick Start 는 다음과 같은 순서로 진행한다.
 
 ### JAVA_HOME 설정
 
+[^a]: 설명입니다.
+
+![](D:\KBINSDEV\workspace-vscode\test-project\reference-guide.assets\001.jpg)
+
 ### PATH 설정
+
+![](reference-guide.assets/001-1605398072177.jpg)
 
 ### 프로젝트 복사
 1. 윈도우에서 CMD 창을 오픈한다.
