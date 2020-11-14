@@ -17,7 +17,7 @@
 > _2020.11.21 lnijtsy_
 
 이 가이드는 테스트 가이드 입니다.
-만나서 방가
+만나서 방가방가방가
 
 ## 목차
 1. [Quick Start - Hello World](https://github.com/ytsyts77/test-project/blob/main/README.md#quick-start---hello-world)
