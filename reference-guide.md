@@ -43,6 +43,7 @@
 * [Visual Studio Code](https://github.com/ytsyts77/test-project.git)
 * [Git](https://github.com/ytsyts77/test-project.git)
 * [Maven](https://github.com/ytsyts77/test-project.git)
+* [SourceTree](/assets/SourceTreeSetup-3.3.9.exe)
 
 상단의 링크들을 클릭하여 설치를 진행한다.
 설치시의 경로는 디폴트로 설정된 값 그대로 설치를 진행하는 것을 권장한다.
