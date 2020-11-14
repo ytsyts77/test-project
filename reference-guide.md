@@ -89,13 +89,13 @@ code .
 git 사용을 위해서는 우선 git 에 대한 지식을 가져야 한다. git 에 대한 기본 지식은 [Pro Git Book](https://git-scm.com/book/ko/v2) 등의 자료를 통해 스스로 익혀야 한다.  
 git 의 명령어중 개발자가 반드시 알아야할 명령어는 다음과 같다.
 
-* `git status` 현재 상태를 확인 한다.
-* `git add` Modified 상태의 파일을 Staging 상태로 변경한다.
-* `git commit` Staging 상태의 파일을 Commited 상태로 변경한다.
-* `git clone` 리모트 저장소를 로컬 저장소로 복사한다.
-* `git push` 로컬 저장소의 현재 브랜치의 내용을 서버로 전달한다.
-* `git pull` 현재 브랜치의 서버 저장소의 내용을 로컬 저장소로 가져온다.
-* `git merge` 다른 브랜치의 커밋 내용을 현재 브랜치로 병합한다.
+* `git-status` 현재 상태를 확인 한다.
+* `git-add` Modified 상태의 파일을 Staging 상태로 변경한다.
+* `git-commit` Staging 상태의 파일을 Commited 상태로 변경한다.
+* `git-clone` 리모트 저장소를 로컬 저장소로 복사한다.
+* `git-push` 로컬 저장소의 현재 브랜치의 내용을 서버로 전달한다.
+* `git-pull` 현재 브랜치의 서버 저장소의 내용을 로컬 저장소로 가져온다.
+* `git-merge` 다른 브랜치의 커밋 내용을 현재 브랜치로 병합한다.
 
 ### VScode 에서 Git 사용법
 ### SourceTree
