@@ -52,8 +52,8 @@
 
 ### PATH 설정
 
-### Sample 프로젝트 가져오기
-윈도우에서 CMD 창을 열어 아래의 명령어를 순서대로 실행하면 자동으로 Sample 프로젝트의 리모트 저장소가 로컬로 복사가 되고 vscode 를 통해 프로젝트가 오픈된다.
+### Hello World 프로젝트 가져오기
+윈도우에서 CMD 창을 열어 아래의 명령어를 순서대로 실행하면 자동으로 [Hello World 프로젝트](https://github.com/ytsyts77/test-project)의 리모트 저장소가 로컬로 복사가 되고 vscode 를 통해 프로젝트가 오픈된다.
 ```dos
 D:
 cd D:\KBINSDEV
