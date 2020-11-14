@@ -72,6 +72,14 @@ F5 를 눌러스 샘플 어플리케이션을 실행한다.
 ## 형상관리 - Git
 ### Git, GitLab 개요
 ### 필수 명령어
+#### 상태확인 `git status`
+#### 스태이징 `git add`
+#### 커밋 `git commit`
+#### 클론 `git clone`
+#### 푸쉬하기 `git push`
+#### `git pull`
+#### `git merge`
+
 ### vscode 에서 Git 사용법
 ### SourceTree
 
