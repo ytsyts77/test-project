@@ -8,7 +8,8 @@
 
 
 # 컨테이너환경 표준 프레임워크 가이드
-> 2020.11.21 ytsytsy77
+> 본 문서는 표준 프레임워크 환경에서 
+> _2020.11.21 lnijtsy_
 
 이 가이드는 테스트 가이드 입니다.
 만나서 방가
@@ -41,6 +42,8 @@
 상단의 다운로드 버튼을 클릭하여 설치를 진행한다.
 설치시의 경로는 디폴트로 설정된 값 그대로 설치를 진행하는 것을 권장한다.
 
+> Visual Studio Code 는 앞으로 VScode 라고 표현 하겠다.
+
 ### JAVA_HOME 설정
 
 ### PATH 설정
@@ -72,15 +75,19 @@ F5 를 눌러스 샘플 어플리케이션을 실행한다.
 ## 형상관리 - Git
 ### Git, GitLab 개요
 ### 필수 명령어
-#### 상태확인 `git status`
-#### 스태이징 `git add`
-#### 커밋 `git commit`
-#### 클론 `git clone`
-#### 푸쉬하기 `git push`
-#### `git pull`
-#### `git merge`
+git 사용을 위해서는 우선 git 에 대한 지식을 가져야 한다.  
+git 에 대한 기본 지식은 git book 등의 자료를 통해 스스로 익혀야 한다.
+git 에서 제공하는 명령어중 아래의 명령어는 개발 진행을 위해 반드시 알아야 한다.  
 
-### vscode 에서 Git 사용법
+* `git status` 현재 상태를 확인 한다.
+* `git add` Modified 상태의 파일을 Staging 상태로 변경한다.
+* `git commit` Staging 상태의 파일을 Commited 상태로 변경한다.
+* `git clone` 리모트 저장소를 로컬 저장소로 복사한다.
+* `git push` 로컬 저장소의 현재 브랜치의 내용을 서버로 전달한다.
+* `git pull` 현재 브랜치의 서버 저장소의 내용을 로컬 저장소로 가져온다.
+* `git merge` 다른 브랜치의 커밋 내용을 현재 브랜치로 병합한다.
+
+### VScode 에서 Git 사용법
 ### SourceTree
 
 ## 프로젝트관리 - Maven
