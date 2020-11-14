@@ -33,13 +33,13 @@
 ### 소프트웨어 설치
 
 표준 프레임워크 개발을 위해서는 아래의 항목들이 설치되어 있어야 한다.
-* AdoptOpenJDK 1.8 [다운로드](https://github.com/ytsyts77/test-project.git)
-* AdoptOpenJDK 11 [다운로드](https://github.com/ytsyts77/test-project.git)
-* Visual Studio Code [다운로드](https://github.com/ytsyts77/test-project.git)
-* Git [다운로드](https://github.com/ytsyts77/test-project.git)
-* Maven [다운로드](https://github.com/ytsyts77/test-project.git)
+* [AdoptOpenJDK 1.8](https://github.com/ytsyts77/test-project.git)
+* [AdoptOpenJDK 11](https://github.com/ytsyts77/test-project.git)
+* [Visual Studio Code](https://github.com/ytsyts77/test-project.git)
+* [Git](https://github.com/ytsyts77/test-project.git)
+* [Maven](https://github.com/ytsyts77/test-project.git)
 
-상단의 다운로드 버튼을 클릭하여 설치를 진행한다.
+상단의 링크들을 클릭하여 설치를 진행한다.
 설치시의 경로는 디폴트로 설정된 값 그대로 설치를 진행하는 것을 권장한다.
 
 > Visual Studio Code 는 앞으로 VScode 라고 표현 하겠다.
