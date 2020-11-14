@@ -17,7 +17,43 @@
 ## 표준 프레임워크 개요
 
 ## Quick Start - Hello World
+
+### GitLab 가입하기
+
+### 소프트웨어 설치
+
 표준 프레임워크 개발을 위해서는 아래의 항목들이 설치되어 있어야 한다.
+* AdoptOpenJDK 1.8
+* AdoptOpenJDK 11
+* Visual Studio Code
+* Git
+* Maven
+상단의 다운로드 버튼을 클릭하여 설치를 진행한다.
+설치시의 경로는 디폴트로 설정된 값 그대로 설치를 진행하는 것을 권장한다.
+
+### JAVA_HOME 설정
+
+### PATH 설정
+
+### Sample 프로젝트 가져오기
+아래와 같이 명령어를 실행하면 프로젝트가 가져와지고 실행된다.
+```dos
+<cmd 창을연다>
+d:
+cd d:\KBINSDEV
+git clone http://sdfsdfs/sdfsdf
+cd sdfsdf
+code .
+```
+
+
+### Hello World 테스트하기
+F5 를 눌러스 샘플 어플리케이션을 실행한다.
+
+웹브라우져를 열어 http://localhost:9090/hello 에 접속하면 아래와 같이 문구가 보이는 것을 확인할 수 있다.
+
+
+
 
 ## 프레임워크 - Spring Boot
 
