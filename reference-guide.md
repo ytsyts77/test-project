@@ -31,8 +31,12 @@
 ## 표준 프레임워크 개요
 
 ## Quick Start - Hello World
-
-### GitLab 가입하기
+Quick Start 는 다음과 같은 순서로 진행한다.
+1. 소프트웨어 설치
+2. JAVA_HOME 설정
+3. Path 설정
+4. 프로젝트 복사
+5. 프로젝트 실행
 
 ### 소프트웨어 설치
 
@@ -54,8 +58,10 @@
 
 ### PATH 설정
 
-### Hello World 프로젝트 가져오기
-윈도우에서 CMD 창을 열어 아래의 명령어를 순서대로 실행하면 자동으로 [Hello World 프로젝트](https://github.com/ytsyts77/test-project)의 리모트 저장소가 로컬로 복사가 되고 vscode 를 통해 프로젝트가 오픈된다.
+### 프로젝트 복사
+1. 윈도우에서 CMD 창을 오픈한다.
+2. 아래의 명령어를 순서대로 실행하면 자동으로 [Hello World 프로젝트](https://github.com/ytsyts77/test-project)의 리모트 저장소가 로컬로 복사가 되고 vscode 를 통해 프로젝트가 오픈된다.
+
 ```dos
 D:
 cd D:\KBINSDEV
@@ -65,9 +71,9 @@ code .
 ```
 
 
-### Hello World 테스트하기
-F5 를 눌러서 Hello World 어플리케이션을 실행한다.
-웹브라우져를 열어 http://localhost:9090/hello 에 접속하면 아래와 같이 문구가 보이는 것을 확인할 수 있다.
+### 프로젝트 실행
+1. F5 를 눌러서 Hello World 어플리케이션을 실행한다.
+1. 웹브라우져를 열어 http://localhost:9090/hello 에 접속하면 아래와 같이 문구가 보이는 것을 확인할 수 있다.
 
 
 ## CICD
