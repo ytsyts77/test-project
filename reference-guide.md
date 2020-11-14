@@ -86,9 +86,8 @@ code .
 ## 형상관리 - Git
 ### Git, GitLab 개요
 ### 필수 명령어
-git 사용을 위해서는 우선 git 에 대한 지식을 가져야 한다.  
-git 에 대한 기본 지식은 [Pro Git Book](https://git-scm.com/book/ko/v2) 등의 자료를 통해 스스로 익혀야 한다.
-git 에서 제공하는 명령어중 아래의 명령어는 개발 진행을 위해 반드시 알아야 한다.  
+git 사용을 위해서는 우선 git 에 대한 지식을 가져야 한다. git 에 대한 기본 지식은 [Pro Git Book](https://git-scm.com/book/ko/v2) 등의 자료를 통해 스스로 익혀야 한다.  
+git 의 명령어중 개발자가 반드시 알아야할 명령어는 다음과 같다.
 
 * `git status` 현재 상태를 확인 한다.
 * `git add` Modified 상태의 파일을 Staging 상태로 변경한다.
