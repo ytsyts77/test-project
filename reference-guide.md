@@ -52,10 +52,10 @@
 아래와 같이 명령어를 실행하면 프로젝트가 가져와지고 실행된다.
 ```dos
 <cmd 창을연다>
-d:
-cd d:\KBINSDEV
-git clone http://sdfsdfs/sdfsdf
-cd sdfsdf
+D:
+cd D:\KBINSDEV
+git clone https://github.com/ytsyts77/test-project.git
+cd test-project
 code .
 ```
 
