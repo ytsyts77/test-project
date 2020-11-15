@@ -53,7 +53,7 @@ Quick Start 는 다음과 같은 순서로 진행한다.
 
 * [Maven](https://github.com/ytsyts77/test-project.git)
 
-* [SourceTree](./reference-guide.assets/SourceTreeSetup-3.3.9.exe)
+* [SourceTree](reference-guide.assets/SourceTreeSetup-3.3.9.exe)
 
 상단의 링크들을 클릭하여 설치를 진행한다.
 설치시의 경로는 디폴트로 설정된 값 그대로 설치를 진행하는 것을 권장한다.
@@ -66,7 +66,7 @@ Quick Start 는 다음과 같은 순서로 진행한다.
 
 ### PATH 설정
 
-![](reference-guide.assets/001-1605398072177.jpg)
+<img src="reference-guide.assets/001-1605398072177.jpg" style="zoom:33%;" />
 
 ### 프로젝트 복사
 1. 윈도우에서 CMD 창을 오픈한다.
