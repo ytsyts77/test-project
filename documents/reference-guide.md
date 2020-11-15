@@ -9,7 +9,7 @@
 
 > 여기는 어디일까요? ㅎㅎ    
 
-![[크기변환]001](assets/[크기변환]001_cplmy6vbe.jpg)
+![[크기변환]001](reference-guide.assets/[크기변환]001_cplmy6vbe.jpg)
 
 # 컨테이너환경 표준 프레임워크 가이드
 > 본 문서는 표준 프레임워크 환경에서 어쩌구 저쩌구  
@@ -42,12 +42,18 @@ Quick Start 는 다음과 같은 순서로 진행한다.
 
 표준 프레임워크 개발을 위해서는 아래의 항목들이 설치되어 있어야 한다.
 * [Chrome Browser](https://github.com/ytsyts77/test-project.git)
+
 * [AdoptOpenJDK 1.8](https://github.com/ytsyts77/test-project.git)
+
 * [AdoptOpenJDK 11](https://github.com/ytsyts77/test-project.git)
+
 * [Visual Studio Code](https://github.com/ytsyts77/test-project.git)
+
 * [Git](https://github.com/ytsyts77/test-project.git)
+
 * [Maven](https://github.com/ytsyts77/test-project.git)
-* [![]()SourceTree](/assets/SourceTreeSetup-3.3.9.exe)
+
+* [SourceTree](./reference-guide.assets/SourceTreeSetup-3.3.9.exe)
 
 상단의 링크들을 클릭하여 설치를 진행한다.
 설치시의 경로는 디폴트로 설정된 값 그대로 설치를 진행하는 것을 권장한다.
