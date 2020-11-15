@@ -72,7 +72,7 @@ Quick Start 는 다음과 같은 순서로 진행한다.
 1. 윈도우에서 CMD 창을 오픈한다.
 2. 아래의 명령어를 순서대로 실행하면 자동으로 [Hello World 프로젝트](https://github.com/ytsyts77/test-project)의 리모트 저장소가 로컬로 복사가 되고 vscode 를 통해 프로젝트가 오픈된다.
 
-```bash
+```cmd
 D:
 cd D:\KBINSDEV
 git clone https://github.com/ytsyts77/test-project.git
