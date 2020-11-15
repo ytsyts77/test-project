@@ -2,10 +2,6 @@
 
 개발환경 테스트 수정
 
-커밋테스트
-
-테스트
-
 
 ```java
 import org.springframework.boot.*;
