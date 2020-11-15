@@ -9,7 +9,7 @@
 
 > 여기는 어디일까요? ㅎㅎ    
 
-![[크기변환]001](/assets/[크기변환]001_cplmy6vbe.jpg)
+![[크기변환]001](assets/[크기변환]001_cplmy6vbe.jpg)
 
 # 컨테이너환경 표준 프레임워크 가이드
 > 본 문서는 표준 프레임워크 환경에서 어쩌구 저쩌구  
@@ -57,8 +57,6 @@ Quick Start 는 다음과 같은 순서로 진행한다.
 ### JAVA_HOME 설정
 
 [^a]: 설명입니다.
-
-![](D:\KBINSDEV\workspace-vscode\test-project\reference-guide.assets\001.jpg)
 
 ### PATH 설정
 
