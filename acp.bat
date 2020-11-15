@@ -1,3 +1,3 @@
 git add *
-git commit -m "그냥수정"
+git commit -m "simple edit"
 git push
