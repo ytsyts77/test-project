@@ -4,22 +4,22 @@
 
 
 ```java
-	import org.springframework.boot.*;
-	import org.springframework.boot.autoconfigure.*;
-	import org.springframework.web.bind.annotation.*;
+import org.springframework.boot.*;
+import org.springframework.boot.autoconfigure.*;
+import org.springframework.web.bind.annotation.*;
 
-	@RestController
-	@SpringBootApplication
-	public class Example {
+@RestController
+@SpringBootApplication
+public class Example {
 
-		@RequestMapping("/")
-		String home() {
-			return "Hello World!";
-		}
+    @RequestMapping("/")
+    String home() {
+        return "Hello World!";
+    }
 
-		public static void main(String[] args) {
-			SpringApplication.run(Example.class, args);
-		}
+    public static void main(String[] args) {
+        SpringApplication.run(Example.class, args);
+    }
 
-	}
+}
 ```
